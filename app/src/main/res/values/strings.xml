@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Дедтайм</string>
+    <string name="widget_timer">Дедтайм: таймер</string>
+    <string name="widget_streak">Дедтайм: серия</string>
+    <string name="widget_today">Дедтайм: привычки на сегодня</string>
+    <string name="widget_quick">Дедтайм: быстрый старт</string>
+    <string name="widget_week">Дедтайм: неделя</string>
+    <string name="widget_ded">Дедтайм: дед</string>
+    <string name="widget_nudge">Дедтайм: дед торопит</string>
+</resources>
